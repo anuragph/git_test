@@ -1,1 +1,2 @@
 This line waas added in the first commit of first-branch.
+This line was added from the CLI. Second commit of first-branch
